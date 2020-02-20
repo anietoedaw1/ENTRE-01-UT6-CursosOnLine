@@ -9,6 +9,7 @@ import java.util.TreeMap;
 import java.util.TreeSet;
 
 /**
+ * @author Antonio Nieto
  * Un objeto de esta clase mantiene una 
  * colección map que asocia  categorías (las claves) con
  * la lista (una colección ArrayList) de cursos que pertenecen a esa categoría 

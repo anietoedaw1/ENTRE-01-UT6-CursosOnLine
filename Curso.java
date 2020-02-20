@@ -4,6 +4,7 @@ import java.util.Arrays;
 /**
  *  Modela un curso ofrecido por la plataforma
  *  on line
+ *  @author Antonio Nieto
  */
 public class Curso
 {
