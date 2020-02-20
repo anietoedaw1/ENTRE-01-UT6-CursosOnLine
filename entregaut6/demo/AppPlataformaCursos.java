@@ -1,3 +1,5 @@
+package entregaut6.demo;
+import entregaut6.interfaz.IUConsola;
 /**
  *  Punto de entrada a la aplicación
  *  
@@ -10,8 +12,5 @@ public class AppPlataformaCursos
 
         IUConsola interfaz = new IUConsola();
         interfaz.iniciar();
-        
-        //java -cp "Proyecto UT6-OfIcial" AppPlataformaCursos
-         
     }
 }
