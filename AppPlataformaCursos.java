@@ -12,6 +12,6 @@ public class AppPlataformaCursos
         interfaz.iniciar();
         
         //java -cp "Proyecto UT6-OfIcial" AppPlataformaCursos
-         
+        //java -jar mientregaut6.jar
     }
 }
